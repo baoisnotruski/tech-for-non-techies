@@ -48,6 +48,11 @@ Word of caution: scripts are your weird neighbor. Things that seem obvious carry
 
 #### I'm telling you this is a bad idea.
 
+#### Learn how to neatly organize data into a table.
+
+I wrote [this PostgreSQL course](https://codestop.io/course/view/postgresql-introduction) a couple of years back. I won't make money from you if you take this course but you will do humanity a service if you learn some form of logic. 
+
+Please note that it's read as `postgres kyu el` because it stands for `Post Ingres Query Language`.  
 
 # I don't code [in my job] but I use Github. 
 
