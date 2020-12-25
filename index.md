@@ -1,6 +1,8 @@
 Poison menu:
 
-[Why I use Github](#I-don't-code-but-I-use-Github.)
+[Why I use Github](#I-don't-code-but-I-use-Github)
+
+
 [Ubuntu commands I use](#Ubuntu-terminal-commands-for-writers)
 
 ## I don't code but I use Github. 
@@ -32,7 +34,9 @@ Poison menu:
 XOFF ignored, mumble mumble. Don't use `ctrl + S`, use `ctrl + O` instead or you're dead. I'm done writing.
 
 
-## There is a place in the universe for non-technical people who use the terminal for whatever reason they please.
+### Ubuntu terminal commands for writers
+
+There is a place in the universe for non-technical people who use the terminal for whatever reason they please.
 
 ### Wait, but why?
 
@@ -40,7 +44,7 @@ XOFF ignored, mumble mumble. Don't use `ctrl + S`, use `ctrl + O` instead or you
 
 - When are already familiar with the commands that are relevant to you, it's just faster.
 
-### Ubuntu terminal commands for writers
+
 
 - `cd`: change directory. Type `cd /Desktop` to go to the `Desktop` folder. You can also just hit the tab key instead of typing `Desktop` in full.
 
