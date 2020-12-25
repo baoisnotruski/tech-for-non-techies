@@ -2,7 +2,7 @@
 
 [Spreadsheet as Point of Sales](#how-to-use-a-spreadsheet-as-a-pos)
 
-[Why I use Github](#i-dont-code-but-i-use-github)
+[Why I use Github](#i-dont-code-in-my-job-but-i-use-github)
 
 
 [Ubuntu commands I use](#ubuntu-terminal-commands-for-writers)
