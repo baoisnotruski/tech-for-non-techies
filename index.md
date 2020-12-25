@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## I don't code but I use Github. 
 
-You can use the [editor on GitHub](https://github.com/baoisnotruski/tech-for-non-techies/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Wait, but why?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Back in college, I used to save my file as `second semester term paper final revised(4).docx`. I'm still traumatized.
 
-### Markdown
+- I use the `nano` command when I need to write/edit something quick. I prefer low-memory program because I use an Acer travelmate. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Branches are easier to manage than layers upon laters of nested folders that eventually resemble a matrjoschka doll with Richard Nixon's face.
 
-```markdown
-Syntax highlighted code block
+- I love Markdown-- the lean, athletic, albeit less capable brother of HTML.
 
-# Header 1
-## Header 2
-### Header 3
+- `git log` helps me get right back where I left off.
 
-- Bulleted
-- List
+### Some words of warning
 
-1. Numbered
-2. List
+- There is a learning curve.
 
-**Bold** and _Italic_ and `Code` text
+- I still don't know when a task is big enough to warrant its own branch.
 
-[Link](url) and ![Image](src)
-```
+- When do I pull? Which branch do I have to be when I do `git pull origin [branch name]`?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Sometimes when I switch branches, the files carry over. I have no idea what I'm doing with my life.
 
-### Jekyll Themes
+- `git log` is not a magic potion. You need to learn how to write a meaningful commit message.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/baoisnotruski/tech-for-non-techies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+XOFF ignored, mumble mumble. Don't use `ctrl + S`, use `ctrl + O` instead or you're dead. I'm done writing.
