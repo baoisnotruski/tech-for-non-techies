@@ -41,7 +41,7 @@ There is a place in the universe for non-technical people who use the terminal f
 
 ### Wait, but why?
 
-- There is a special kind of flow that you achieve when your fingers don't leave the keyboard.
+- Your thoughts can flow like a river into the computer when your fingers don't leave the keyboard.
 
 - When are already familiar with the commands that are relevant to you, it's just faster.
 
