@@ -1,11 +1,11 @@
 Poison menu:
 
->> [Why I use Github](#i-dont-code-but-i-use-github)
+[Why I use Github](#i-dont-code-but-i-use-github)
 
 
->> [Ubuntu commands I use](#ubuntu-terminal-commands-for-writers)
+[Ubuntu commands I use](#ubuntu-terminal-commands-for-writers)
 
-## I don't code but I use Github. 
+# I don't code but I use Github. 
 
 ### Wait, but why?
 
@@ -34,7 +34,8 @@ Poison menu:
 XOFF ignored, mumble mumble. Don't use `ctrl + S`, use `ctrl + O` instead or you're dead. I'm done writing.
 
 
-### Ubuntu terminal commands for writers
+
+# Ubuntu terminal commands for writers
 
 There is a place in the universe for non-technical people who use the terminal for whatever reason they please.
 
