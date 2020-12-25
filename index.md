@@ -1,4 +1,6 @@
-Poison menu:
+# Jump to a post:
+
+[Spreadsheet as Point of Sales](#how-to-use-a-spreadsheet-as-a-pos)
 
 [Why I use Github](#i-dont-code-but-i-use-github)
 
@@ -7,28 +9,42 @@ Poison menu:
 
 # How to use a spreadsheet as a POS
 
-Don't. A spreadsheet should never be used as a POS. 
+**Don't.** 
 
-But no one can stop you if you do. My favorite Reddit quote:
+A spreadsheet should not be used as a POS. 
 
-Anything can be anything of you try hard enough.
+But no one can stop you if you do. Just anticipate that users will mess it up.
+
+My favorite Reddit quote:
+
+*Anything can be anything of you try hard enough.*
 
 ## If you can't help it, there are some duct tape solutions:
 
 #### Use dropdowns
-- Instead of allowing your sales person to enter a generic `beer`, force them to select `Heineken`, `Carlsberg`, `San Miguel`. In Google Sheets:
+Instead of allowing your sales person to enter a generic `beer`, force them to select `Heineken`, `Carlsberg`, `San Miguel`. 
+
+In Google Sheets:
 `Data` --> `Data Validation` --> `Criteria` --> `List of items`
 
 #### Annoy users with conditional formatting
 This is not the same cell that you learned in biology class. 
 
-- If leaving a cell blank would lead to lost sales, then this cell has to be absolutely filled. Try conditional formatting:
+If leaving a cell blank would lead to lost sales, then this cell has to be absolutely filled. 
+
+Try conditional formatting:
+
 First, highlight all the applicable rows and columns. 
 
 `Format` --> `Conditional formatting` --> `Format rules` --> `Format cells if...` --> `Is empty` --> Please choose a pastel color that won't turn me blind --> `Done`
 
 #### =NOW()
+
 You can use the `=NOW()` function to automatically enter time and date. Use only if timestamp is relevant to your operations.
+
+While you're at it, dig into functions and scripts.
+
+Word of caution: scripts are your weird neighbor. Things that seem obvious carry lots of unknown unknowns.
 
 #### I'm telling you this is a bad idea.
 
