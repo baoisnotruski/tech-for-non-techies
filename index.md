@@ -5,7 +5,35 @@ Poison menu:
 
 [Ubuntu commands I use](#ubuntu-terminal-commands-for-writers)
 
-# I don't code but I use Github. 
+# How to use a spreadsheet as a POS
+
+Don't. A spreadsheet should never be used as a POS. 
+
+But no one can stop you if you do. My favorite Reddit quote:
+
+Anything can be anything of you try hard enough.
+
+## If you can't help it, there are some duct tape solutions:
+
+#### Use dropdowns
+- Instead of allowing your sales person to enter a generic `beer`, force them to select `Heineken`, `Carlsberg`, `San Miguel`. In Google Sheets:
+`Data` --> `Data Validation` --> `Criteria` --> `List of items`
+
+#### Annoy users with conditional formatting
+This is not the same cell that you learned in biology class. 
+
+- If leaving a cell blank would lead to lost sales, then this cell has to be absolutely filled. Try conditional formatting:
+First, highlight all the applicable rows and columns. 
+
+`Format` --> `Conditional formatting` --> `Format rules` --> `Format cells if...` --> `Is empty` --> Please choose a pastel color that won't turn me blind --> `Done`
+
+#### =NOW()
+You can use the `=NOW()` function to automatically enter time and date. Use only if timestamp is relevant to your operations.
+
+#### I'm telling you this is a bad idea.
+
+
+# I don't code [in my job] but I use Github. 
 
 ### Wait, but why?
 
