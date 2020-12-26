@@ -42,6 +42,8 @@ When you use my product, I want you to agree to my terms. Otherwise, I won't let
 
 Caution: Side effects of the vaccine include you turning into a crocodile.
 
+[Back to index](#jump-to-a-post)
+
 # Experience the world as a UX designer
 
 `Życie jest bez sensu i wszyscy zginiemy` is my favorite Polish sentence.
@@ -106,14 +108,13 @@ While you're at it, dig into functions and scripts.
 
 Word of caution: scripts are your weird neighbor. Things that seem obvious carry lots of unknown unknowns.
 
-#### I'm telling you this is a bad idea.
-[Back to index](#jump-to-a-post)
-
 #### Learn how to neatly organize data into a table.
 
 I wrote [this PostgreSQL course](https://codestop.io/course/view/postgresql-introduction) a couple of years back. I won't make money from you if you take this course but you will do humanity a service if you learn some form of logic. 
 
 Please note that it's read as `postgres kyu el` because it stands for `Post Ingres Query Language`.  
+
+[Back to index](#jump-to-a-post)
 
 # I don't code [in my job] but I use Github. 
 
