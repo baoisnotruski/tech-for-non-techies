@@ -1,11 +1,68 @@
 # Jump to a post:
 
+[I won't use an RFID to spy on you](#rfid-is-bad-design)
+
+[Experience the world as a UX designer](#experience-the-world-as-a-ux-designer)
+
+
 [Spreadsheet as Point of Sales](#how-to-use-a-spreadsheet-as-a-pos)
+
 
 [Why I use Github](#i-dont-code-in-my-job-but-i-use-github)
 
 
 [Ubuntu commands I use](#ubuntu-terminal-commands-for-writers)
+
+# RFID is bad design
+
+Some people might tell you not to get vaccinated because the government will use that as an opportunity to plant microchips under your skin.
+
+These microchips will be used to track whatever you do. 
+
+I will not debunk or prove this argument. But if I were the government, I here's why I would not do that.
+
+1. **RFID microchips can handle limited input.** 
+ 
+If I want to spy on you, I want you to use a device that will tell me:
+
+- What you look like
+- Who your friends are
+- Which restaurant you just checked in
+- What voice note you just sent to your mom
+
+2. **RFID is intrusive.** 
+
+You are already repulsed by the thought of wearing it; even more so, getting it planted under your skin.
+ 
+I will design a product that you want to hold and put your face in front of. It will be the very last thing you will see before going to sleep and the first thing you will look for when you wake up.
+
+3. **Of course, I'm going to want your express consent.** 
+ 
+When you use my product, I want you to agree to my terms. Otherwise, I won't let you use it. You can't say no. Because you want it. 
+
+Caution: Side effects of the vaccine include you turning into a crocodile.
+
+# Experience the world as a UX designer
+
+`Życie jest bez sensu i wszyscy zginiemy` is my favorite Polish sentence.
+
+It's easy to choose because I know only enough to have a good day:
+
+`Cześć. Jak się masz?`
+
+`Piękna pogoda.`
+
+`Jesteś piękną kobietą.`
+
+`Mow wolniej słabo mowie populsko.` (This, I'm not sure how to write.)
+
+`Do widzenia.`
+
+But what's so good about "Life is meaningless and we are all going to die"?
+
+It's an invitation to see that life is a platform. Whatever meaning, intent, or direction you put in it is completely up to you.
+
+
 
 # How to use a spreadsheet as a POS
 
