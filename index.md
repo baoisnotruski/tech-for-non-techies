@@ -62,6 +62,7 @@ But what's so good about "Life is meaningless and we are all going to die"?
 
 It's an invitation to see that life is a platform. Whatever meaning, intent, or direction you put in it is completely up to you.
 
+[Back to index](#jump-to-a-post)
 
 
 # How to use a spreadsheet as a POS
@@ -95,6 +96,8 @@ First, highlight all the applicable rows and columns.
 
 `Format` --> `Conditional formatting` --> `Format rules` --> `Format cells if...` --> `Is empty` --> Please choose a pastel color that won't turn me blind --> `Done`
 
+You can also flip this: only fill cells with colors if data is entered. 
+
 #### =NOW()
 
 You can use the `=NOW()` function to automatically enter time and date. Use only if timestamp is relevant to your operations.
@@ -104,6 +107,7 @@ While you're at it, dig into functions and scripts.
 Word of caution: scripts are your weird neighbor. Things that seem obvious carry lots of unknown unknowns.
 
 #### I'm telling you this is a bad idea.
+[Back to index](#jump-to-a-post)
 
 #### Learn how to neatly organize data into a table.
 
@@ -139,7 +143,7 @@ Please note that it's read as `postgres kyu el` because it stands for `Post Ingr
 
 XOFF ignored, mumble mumble. Don't use `ctrl + S`, use `ctrl + O` instead or you're dead. I'm done writing.
 
-
+[Back to index](#jump-to-a-post)
 
 # Ubuntu terminal commands for writers
 
@@ -190,3 +194,5 @@ There is a place in the universe for non-technical people who use the terminal f
 ### A word of hope
 
 This post will be updated continuously.
+
+[Back to index](#jump-to-a-post)
