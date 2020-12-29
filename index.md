@@ -1,21 +1,23 @@
 # Jump to a post:
 
+[What is a web browser?](#what-is-a-browser)
+
 [I won't use an RFID to spy on you](#rfid-is-bad-design)
 
 [Experience the world as a UX designer](#experience-the-world-as-a-ux-designer)
 
-
 [Spreadsheet as Point of Sales](#how-to-use-a-spreadsheet-as-a-pos)
-
 
 [Why I use Github](#i-dont-code-in-my-job-but-i-use-github)
 
-
 [Ubuntu commands I use](#ubuntu-terminal-commands-for-writers)
+
 
 # What is a browser? 
 
 I used to think I know what a browser was. Until I started running Selenium in a headless state.
+
+![web_diagram_naive](https://user-images.githubusercontent.com/63767647/103252119-5989a300-49b6-11eb-911d-50052725c33a.jpeg)
 
 ## Headless state = When your browser does things but you don't see it
 
