@@ -22,6 +22,7 @@ I used to think I know what a browser was. Until I started running Selenium in a
 ## Headless state = When your browser does things but you don't see it
 
 Headless state is when a browser accesses a page, comments on posts, and do everything that you could do on Google Chrome (or Safari, or Firefox) without the browser appearing on your screen.
+![web_diagram_chuck_norris](https://user-images.githubusercontent.com/63767647/103252120-5b536680-49b6-11eb-9e12-0e8978ed3581.jpeg)
 
 ## So TIL:
 
